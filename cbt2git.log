@@ -1,0 +1,9 @@
+2023-04-03 02:52:34.755013 - Initialized conversion of CBT815
+2023-04-03 02:52:34.807458 - Received CBT.V504.FILE815.PDS from FILE815.XMI 
+2023-04-03 02:52:34.810524 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE815.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:52:34.811781 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE815.PDS, moved to PDS/$$NOTE1
+2023-04-03 02:52:34.812914 - Found @FILE815.txt (text/plain) in CBT.V504.FILE815.PDS, moved to PDS/@FILE815
+2023-04-03 02:52:34.814101 - Found DB2SRCHW.txt (text/plain) in CBT.V504.FILE815.PDS, moved to PDS/DB2SRCHW
+2023-04-03 02:52:34.815228 - Found SRCHE.rexx (text/plain) in CBT.V504.FILE815.PDS, moved to PDS/SRCHE
+2023-04-03 02:52:34.816316 - Found SRCHEPAN.txt (text/plain) in CBT.V504.FILE815.PDS, moved to PDS/SRCHEPAN
+2023-04-03 02:52:34.817415 - Found STEMSRCH.txt (text/plain) in CBT.V504.FILE815.PDS, moved to PDS/STEMSRCH
